@@ -1,0 +1,24 @@
+User Name 
+SSN  
+Card Type 
+Credit Card Number 
+Robert Aragon 
+900-01-4412 
+Visa 
+4242-4242-4242-4242 
+Priya Patel 
+900-02-8891 
+Mastercard 
+5555-5555-5555-4444 
+Elena Rostova 
+900-03-1105 
+Amex 
+3782-8224-6310-005 
+David Chen 
+900-04-6623 
+Discover 
+6011-1111-1111-1117 
+Sarah Jenkins 
+900-05-3374 
+Visa 
+4111-1111-1111-1111
